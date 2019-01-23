@@ -1,0 +1,10 @@
+{
+    "Name": "MoonstoneMod",
+    "Author": "Cameron Small",
+    "Version": "1.0.0",
+    "Description": "Adds a new mineral, moonstone, to the game.",
+    "UniqueID": "CameronSmall.MoonstoneMod",
+    "EntryDll": "MoonstoneMod.dll",
+    "MinimumApiVersion": "2.9",
+    "UpdateKeys": []
+}
